@@ -212,7 +212,7 @@ function App() {
             )
           })
         }{
-          total === 0 ? <p style={{color: "red", fontFamily : "fantasy"}}>Your cart is empty !</p> : <p></p>
+          total === 0 ? <p style={{color: "red", fontFamily : "cursive"}}>Your cart is empty !</p> : <p></p>
         }
         <div id="total">
           <div id="cart-row-end">
